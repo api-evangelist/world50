@@ -11,6 +11,17 @@ description: >-
   the community through the World 50 iOS/Android app. The company publishes
   no public developer program or API surface.
 url: https://raw.githubusercontent.com/api-evangelist/world50/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
